@@ -18,15 +18,23 @@ __Задание 2. AntConc.__
 в) Контексты (на примере 3 слов из "Анны Карениной").
 + "Смерть"
 ![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-03-29%20at%2018.45.41.jpg)
-+ "Счастливы"
-![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-03-29%20at%2018.47.06.jpg)
 + "Воспоминание"
+![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-03-29%20at%2018.47.06.jpg)
++ "Счастливы"
 ![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-03-29%20at%2018.47.53.jpg)
 
 г) Функционирование слов в разных частях текста (Concordance Plot).
 + "Смерть"
 ![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-03-29%20at%2018.49.08.jpg)
-+ "Счастливы"
-![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-03-29%20at%2018.49.45.jpg)
 + "Воспоминание"
 ![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-03-29%20at%2018.49.26.jpg)
++ "Счастливы"
+![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-03-29%20at%2018.49.45.jpg)
+
+д) Биграммы + N-граммы.
++ Компромисс (Довлатов)
++ Анна Каренина (Толстой)
+
+е) Выводы.
+
+че
