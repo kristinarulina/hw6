@@ -16,6 +16,9 @@ __Задание 2. AntConc.__
 + Компромисс (Довлатов): "абажуром" (1), "абсолютной" (1), "авангард" (1), "авангарда" (1), "аванса" (1)
 
 в) Контексты (на примере 3 слов из "Анны Карениной").
++ "Смерть"
 ![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-03-29%20at%2018.45.41.jpg)
++ "Счастливы"
 ![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-03-29%20at%2018.47.06.jpg)
++ "Воспоминание"
 ![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-03-29%20at%2018.47.53.jpg)
