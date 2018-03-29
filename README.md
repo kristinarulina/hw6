@@ -15,6 +15,7 @@ __Задание 2. AntConc.__
 + Анна Каренина (Толстой): "aber" (1), "ablutions" (1), "admirable" (1), "adore" (1), "age" (1)
 + Компромисс (Довлатов): "абажуром" (1), "абсолютной" (1), "авангард" (1), "авангарда" (1), "аванса" (1)
 
-в) Контексты.
-+ Анна Каренина:
-+ Компромисс: 
+в) Контексты (на примере 3 слов из "Анны Карениной").
+![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-03-29%20at%2018.45.41.jpg)
+![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-03-29%20at%2018.47.06.jpg)
+![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-03-29%20at%2018.47.53.jpg)
