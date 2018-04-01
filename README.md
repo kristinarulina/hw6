@@ -39,6 +39,13 @@ __Задание 2. AntConc.__
 ![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-04-01%20at%2013.27.53.jpg)
 ![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-04-01%20at%2013.28.03.jpg)
 
+ж) Бонусное задание. Collocates tool.
++ Данная функция позволяет выявить слова, в сочетании с которыми идет то или иное слово из текста. В настройках можно установить, насколько близко к друг другу они должны находиться (я установила 5 слева и 5 справа). Кроме того, я отсортировала их по "Stat", т.е. collocation strength measure, чтобы выяснить, какие слова сочетаются наиболее "хорошо". Для примера я, опять же, выбрала слово "женщина".
++ Анна Каренина (Толстой)
+![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-04-01%20at%2013.39.05.jpg)
++ Компромисс (Довлатов)
+![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-04-01%20at%2013.39.44.jpg)
+
 е) Выводы.
 
 че
