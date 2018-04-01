@@ -31,9 +31,13 @@ __Задание 2. AntConc.__
 + "Счастливы"
 ![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-03-29%20at%2018.49.45.jpg)
 
-д) Биграммы + N-граммы.
-+ Компромисс (Довлатов)
+д) Биграммы + N-граммы. Употребление слова "женщина" в им. падеже в обоих текстах.
 + Анна Каренина (Толстой)
+![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-04-01%20at%2013.28.29.jpg)
+![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-04-01%20at%2013.28.43.jpg)
++ Компромисс (Довлатов)
+![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-04-01%20at%2013.27.53.jpg)
+![alt text](https://github.com/kristinarulina/hw6/blob/master/Screen%20Shot%202018-04-01%20at%2013.28.03.jpg)
 
 е) Выводы.
 
